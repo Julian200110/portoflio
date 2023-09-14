@@ -46,7 +46,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/julian-vanegas-98a81b159/"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.linkedin.com/in/julian-camilo-vanegas-gonzalez-79418528b//"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/julian.vanegas.562"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/juliancv21/"><img src={navIcon3} alt="" /></a>
               </div>
